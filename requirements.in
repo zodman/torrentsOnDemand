@@ -1,0 +1,9 @@
+aiohttp
+aiodns
+cchardet
+lxml
+
+
+# torrents tools
+magnet2torrent
+bencode.py
