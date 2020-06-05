@@ -7,3 +7,4 @@ lxml
 # torrents tools
 magnet2torrent
 bencode.py
+tabulate
