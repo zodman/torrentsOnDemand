@@ -5,7 +5,8 @@
 #    pip-compile --output-file=requirements.txt requirements.in
 #
 aiodns==2.0.0             # via -r requirements.in
-aiohttp==3.6.2            # via -r requirements.in, magnet2torrent
+aiohttp==3.6.2            # via -r requirements.in, aiojobs, magnet2torrent
+aiojobs==0.2.2            # via -r requirements.in
 async-timeout==3.0.1      # via aiohttp
 attrs==19.3.0             # via aiohttp
 bencode.py==3.0.1         # via -r requirements.in
@@ -21,4 +22,5 @@ pycares==3.1.1            # via aiodns
 pycparser==2.20           # via cffi
 six==1.15.0               # via magnet2torrent
 tabulate==0.8.7           # via -r requirements.in
+tqdm==4.46.1              # via -r requirements.in
 yarl==1.4.2               # via aiohttp

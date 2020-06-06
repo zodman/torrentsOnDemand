@@ -2,6 +2,8 @@ aiohttp
 aiodns
 cchardet
 lxml
+aiojobs
+tqdm
 
 
 # torrents tools
