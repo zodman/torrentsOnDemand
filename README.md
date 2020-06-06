@@ -40,3 +40,7 @@ The app fired all torrents to the same time.
     source .env/bin/activate
     pip install -r requirements.txt
     python main.py
+
+## Demo
+
+[![asciicast](https://asciinema.org/a/337147.svg)](https://asciinema.org/a/337147)
