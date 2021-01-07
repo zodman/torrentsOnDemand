@@ -15,7 +15,7 @@ cffi==1.14.0              # via pycares
 chardet==3.0.4            # via aiohttp
 expiringdict==1.2.1       # via magnet2torrent
 idna==2.9                 # via yarl
-lxml==4.5.1               # via -r requirements.in
+lxml==4.6.2               # via -r requirements.in
 magnet2torrent==1.1.0     # via -r requirements.in
 multidict==4.7.6          # via aiohttp, yarl
 pycares==3.1.1            # via aiodns
